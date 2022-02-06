@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning C++, python, javascript, and more
 - 🌱 I’m currently learning information architecture
 - 💞️ I’m looking to collaborate on things
-- 📫 How to reach me - message me
+- 📫 How to reach me - good question!
 
 <!---
 ExtremeMalmz/ExtremeMalmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
